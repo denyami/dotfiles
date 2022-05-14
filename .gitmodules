@@ -1,0 +1,12 @@
+[submodule "nvim-config"]
+	path = nvim-config
+	url = https://github.com/denyami/nvim-config.git
+[submodule "tmux-config"]
+	path = tmux-config
+	url = https://github.com/denyami/tmux-config.git
+[submodule "fish-config"]
+	path = fish-config
+	url = https://github.com/denyami/fish-config.git
+[submodule "starship-config"]
+	path = starship-config
+	url = https://github.com/denyami/starship-config.git
