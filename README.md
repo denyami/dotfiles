@@ -48,7 +48,7 @@ snap install starship
 ### Clone repository containing submodules.
 
 ```
-git clone --recursive https://github.com/den8383/.dotfiles.git
+git clone --recursive https://github.com/denyami/dotfiles.git
 ```
 
 ### Do all the setup.

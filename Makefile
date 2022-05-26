@@ -24,6 +24,7 @@ dotfiles-set-all:
 	make dotfiles-set-fish
 	make dotfiles-set-nvim
 	make dotfiles-set-tmux
+	make dotfiles-set-starship
 
 run-setup:
 	make dotfiles-install-all
